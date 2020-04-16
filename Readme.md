@@ -132,3 +132,14 @@ The Making of NimYAML (2016/09)
 
 Metaprogramming and read- and maintainability in Nim
 - https://peterme.net/metaprogramming-and-read-and-maintainability-in-nim.html
+
+
+Tutorials / Intros
+-------------------------------------------------------------------------------
+
+- [Nim Notes by Kaushal Modi](https://scripter.co/notes/nim/)
+- [Slides and source code for my FOSDEM 2020 talk "Nim - Move semantics".](https://github.com/Araq/fosdem2020)
+- [Nim async voodoo - 2016](https://github.com/Araq/PolyConf2016/blob/master/polyconf.rst)
+- [NimCon2015 - workshop](https://github.com/Araq/NimCon2015/blob/master/nimcon.rst)
+- [The ultimate Nim introduction. Tutorial material and my slides - Araq - 2015](https://github.com/Araq/oscon2015)
+- [Nimrod - 2014 by Dennis Felsing](http://felsin9.de/nnis/nimrod/nimrod-gpn14.pdf) - http://felsin9.de/nnis/software/
