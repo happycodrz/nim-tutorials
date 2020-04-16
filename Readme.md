@@ -118,6 +118,10 @@ Performance sensitive code
 - https://github.com/winksaville/nim-bmtool/blob/master/src/bmtool.nim (with asm inside)
 
 
+Some guidelines / articles
+-------------------------------------------------------------------------------
+
+
 A guide to documenting, profiling and debugging Nim code (2017/10)
 - https://nim-lang.org/blog/2017/10/02/documenting-profiling-and-debugging-nim-code.html
 
