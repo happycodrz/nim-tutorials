@@ -74,16 +74,26 @@ My solutions for Advent of Code 2015
 Cookbooks / ready solutions
 -------------------------------------------------------------------------------
 
+Nim basics
+- https://narimiran.github.io/nim-basics/
+- https://github.com/narimiran/nim-basics
 
-Rosetta Stone - NIM <> Ruby
-- http://rosetta.alhur.es/compare/nim/ruby/#
+Rosetta Stone - NIM vs. __ANOTHER_PROGRAMMING_LANGUAGE__
+- http://rosetta.alhur.es/compare/Nim/Python/
+- http://rosetta.alhur.es/compare/Nim/Ruby/
+
+
+Nim By Examples
+- https://nim-by-example.github.io/
+- https://github.com/nim-by-example/nim-by-example.github.io
 
 
 Nim Programming Cookbook http://nim-cookbook.btbytes.com/
 - https://github.com/btbytes/nim-cookbook
 
 
-Nim in Action code samples https://book.picheta.me
+Nim in Action code samples
+- https://book.picheta.me
 - https://github.com/dom96/nim-in-action-code
 
 
@@ -120,6 +130,9 @@ Performance sensitive code
 
 Some guidelines / articles
 -------------------------------------------------------------------------------
+
+OOP In Nim (multiple articles)
+- http://goran.krampe.se/category/oop/
 
 
 A guide to documenting, profiling and debugging Nim code (2017/10)
