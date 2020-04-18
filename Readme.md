@@ -79,6 +79,7 @@ Nim basics
 - https://github.com/narimiran/nim-basics
 
 Rosetta Stone - NIM vs. __ANOTHER_PROGRAMMING_LANGUAGE__
+- http://rosettacode.org/wiki/Category:Nim
 - http://rosetta.alhur.es/compare/Nim/Python/
 - http://rosetta.alhur.es/compare/Nim/Ruby/
 
