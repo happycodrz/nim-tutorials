@@ -119,6 +119,59 @@ Unsorted Nim code that I wrote for some reason (largely Rosetta Code)
 
 
 
+Examples in NIM repo
+- https://github.com/nim-lang/Nim/tree/master/examples
+
+
+
+NIM Wiki
+-------------------------------------------------------------------------------
+
+- https://github.com/nim-lang/Nim/wiki/Unofficial-FAQ
+- https://github.com/nim-lang/Nim/wiki/Nim-for-C-programmers
+- https://github.com/nim-lang/Nim/wiki/Nim-for-Python-Programmers
+- https://github.com/nim-lang/Nim/wiki/Nim-for-TypeScript-Programmers
+
+
+Nim Documentation Overview
+-------------------------------------------------------------------------------
+
+https://nim-lang.github.io/Nim/
+
+  Tutorial (part I)
+  The Nim tutorial part one deals with the basics.
+
+  Tutorial (part II)
+  The Nim tutorial part two deals with the advanced language constructs.
+
+  Tutorial (part III)
+  The Nim tutorial part three about Nim's macro system.
+
+  Language Manual
+  The Nim manual is a draft that will evolve into a proper specification.
+
+  Library documentation
+  This document describes Nim's standard library.
+
+  Compiler user guide
+  The user guide lists command line arguments, special features of the compiler, etc.
+
+  Tools documentation
+  Description of some tools that come with the standard distribution.
+
+  GC
+  Additional documentation about Nim's GC and how to operate it in a realtime setting.
+
+  Source code filters
+  The Nim compiler supports source code filters as a simple yet powerful builtin templating system.
+
+  Internal documentation
+  The internal documentation describes how the compiler is implemented. Read this if you want to hack the compiler.
+
+  Index
+  The generated index. Index + (Ctrl+F) == Joy
+
+
 Performance sensitive code
 -------------------------------------------------------------------------------
 
