@@ -44,6 +44,7 @@ Advent of code
 - https://github.com/kaushalmodi/aoc2019
 - https://github.com/Coac/advent-of-code-2019
 - https://github.com/exelotl/aoc2019
+- https://github.com/dcurrie/AdventOfCode
 
 
 ## 2018
