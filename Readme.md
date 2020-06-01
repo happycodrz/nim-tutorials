@@ -99,6 +99,10 @@ Nim in Action code samples
 - https://github.com/dom96/nim-in-action-code
 
 
+Nim Programming Book (by Dr. Stefan Salewski)
+- https://github.com/StefanSalewski/NimProgrammingBook
+- http://ssalewski.de/nimprogramming.html
+
 RANDOM BITS OF NIM
 -------------------------------------------------------------------------------
 
